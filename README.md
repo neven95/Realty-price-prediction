@@ -1,6 +1,6 @@
 # Realty-price-prediction
 
-Ko su članovi tima?
+#### Ko su članovi tima?
 
     Neven Jović ra18/2014, grupa3
     Nikola Skrobonja ra25/2014, grupa3
