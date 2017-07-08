@@ -14,7 +14,7 @@ Kompleksne veze između karakteristika nekretnine, kao što je broj soba i lokac
 
 #### Algoritmi koji su se koristili:
 
-Koriscena je tehnika "Stacking".Za tu tehniku meta modele cine XGBOOST, RandomForest i ExtraTrees .Napravljena je Neuronska mreza koja vrsi predikciju na osnovu predikcija meta modela.
+Koriscena je tehnika "Stacking".Za tu tehniku meta modele cine XGBOOST, RandomForest i ExtraTrees .Napravljena je Neuronska mreza koja vrsi predikciju na osnovu predikcija meta modela. Pravljenje modela nalazi se u odvojenim fajlovima, dok se u fajl Predikcija ucitavaju gotovi modeli i koriste se dalje za "Stacking" .
 
 #### Podaci koji se koriste:
 
